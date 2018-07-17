@@ -1,0 +1,109 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: OneTwoPixM.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: /home/er/Documents/p_publication/moi/general_ref.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in kaab2014surface
+Warning--empty journal in ryan2015uav
+Name 1 in "Rupnik, E., and Pierrot Deseilligny, M., and Delorme, A." has a comma at the end for entry rupnik:17:fusion
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Rupnik, E., and Pierrot Deseilligny, M., and Delorme, A." has a comma at the end for entry rupnik:17:fusion
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Yoon, K-J., and Kweon, I-S." has a comma at the end for entry yoon2005locally
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Bleyer, M., and Rhemann, Ch., and Rother, C." has a comma at the end for entry bleyer2011patchmatch
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Bleyer, M., and Rhemann, Ch., and Rother, C." has a comma at the end for entry bleyer2011patchmatch
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Galliani, S., and Lasinger, K., and Schindler, K." has a comma at the end for entry galliani2015massively
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Galliani, S., and Lasinger, K., and Schindler, K." has a comma at the end for entry galliani2015massively
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Boykov, Y., and Veksler, O., and Zabih, R." has a comma at the end for entry boykov2001fast
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Boykov, Y., and Veksler, O., and Zabih, R." has a comma at the end for entry boykov2001fast
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Taniai, T., and Matsushita, Y., and Sato, Y., and Naemura, T." has a comma at the end for entry taniai2017continuous
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Taniai, T., and Matsushita, Y., and Sato, Y., and Naemura, T." has a comma at the end for entry taniai2017continuous
+while executing---line 2403 of file IEEEtran.bst
+Name 3 in "Taniai, T., and Matsushita, Y., and Sato, Y., and Naemura, T." has a comma at the end for entry taniai2017continuous
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Felzenszwalb, P. F., and Huttenlocher, D. P." has a comma at the end for entry felzenszwalb2006efficient
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Ranftl, R., and Gehrig, S., and Pock, T., and Bischof, H." has a comma at the end for entry ranftl2012pushing
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Ranftl, R., and Gehrig, S., and Pock, T., and Bischof, H." has a comma at the end for entry ranftl2012pushing
+while executing---line 2403 of file IEEEtran.bst
+Name 3 in "Ranftl, R., and Gehrig, S., and Pock, T., and Bischof, H." has a comma at the end for entry ranftl2012pushing
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Pierrot-Deseilligny, M., and Paparoditis, N." has a comma at the end for entry mpd:06:sgm
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Kanade, T., and Kano, H.,and Kimura, S., and Yoshida, A., and Oda, K." has a comma at the end for entry kanade1995development
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "Kanade, T., and Kano, H.,and Kimura, S., and Yoshida, A., and Oda, K." has a comma at the end for entry kanade1995development
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 2 of "Kanade, T., and Kano, H.,and Kimura, S., and Yoshida, A., and Oda, K." for entry kanade1995development
+while executing---line 2403 of file IEEEtran.bst
+Name 3 in "Kanade, T., and Kano, H.,and Kimura, S., and Yoshida, A., and Oda, K." has a comma at the end for entry kanade1995development
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Birchfield, S., and Tomasi, C." has a comma at the end for entry birchfield1998pixel
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Furukawa, Ya., and Hern{\'a}ndez, C." has a comma at the end for entry furukawa2015multi
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Zabih, R., and Woodfill, J." has a comma at the end for entry zabih1994non
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Viola, P., and Wells I.W.M." has a comma at the end for entry viola1997alignment
+while executing---line 2403 of file IEEEtran.bst
+
+Done.
+You've used 36 entries,
+            4087 wiz_defined-function locations,
+            1043 strings with 15633 characters,
+and the built_in function-call counts, 30861 in all, are:
+= -- 2515
+> -- 829
+< -- 291
++ -- 446
+- -- 145
+* -- 1530
+:= -- 4528
+add.period$ -- 77
+call.type$ -- 36
+change.case$ -- 37
+chr.to.int$ -- 642
+cite$ -- 38
+duplicate$ -- 2167
+empty$ -- 2307
+format.name$ -- 180
+if$ -- 7194
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 384
+newline$ -- 131
+num.names$ -- 36
+pop$ -- 839
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2368
+stack$ -- 0
+substring$ -- 1536
+swap$ -- 1869
+text.length$ -- 77
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 36
+warning$ -- 2
+while$ -- 153
+width$ -- 38
+write$ -- 386
+(There were 25 error messages)
