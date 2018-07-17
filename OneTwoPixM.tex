@@ -59,11 +59,16 @@
 \usepackage{algorithm}
 \usepackage{algpseudocode}
 \usepackage{amsmath}
-
+ 
+\usepackage{xcolor}
 \usepackage{graphicx}
 \graphicspath{{img/}}
 
-
+%color 
+\definecolor{er}{RGB}{10,200,100}
+\definecolor{darkgreen}{RGB}{0,200,50}
+%commentaires
+\newcommand{\er}[1]{\textcolor{er}{#1}}
 
 
 % Some very useful LaTeX packages include:
@@ -595,7 +600,7 @@ $Pds_{I}$ is a weighting factor and it plays the same role as $Pds_{C}$. In all 
 %
 \paragraph{Regularizing term}
 %draw the regul
-? do we want to talk about it?
+? \er{do we want to talk about it?}
 %
 %new single pixel cost function
 %
@@ -684,17 +689,24 @@ C^I(p,d_p) = Pds_{I} \cdot \frac{1}{NbV-1} \cdot \sum_{v=1}^{NbV-1} \cdot \delta
 
 \end{algorithmic}\label{alg:costAggreg}
 \end{algorithm*}
-%
-\subsection{}
-
+% 
 
 \section{Results}
+
+start with spot7 and subsampling to have la verite
+
+
 + MUST - show that larger baseline works better and if yes then add to Contributions !!!
 +A MUST : SHOW PROFILES TO BACKUP THE FRONTO-PARALLEL DISCOURSE
-+cmpr with s2p
-+ stereo vs triplet
++ subsample the images to create la verite
++cmpr with s2p --- no
++ stereo vs triplet -- not sure
++ middlebury and gradients?
 
 
+
+
+%%%%%%% this below is old
 Evaluation : \\
 \begin{itemize}
 \item qualitative  
